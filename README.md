@@ -8,6 +8,6 @@ I know glassmorphism is not trending anymore, but I really like the effects and 
 
 I hope you like it, code it and [watch it](https://gustavolando.github.io/otGlassmorphismLoginForm/) !
 
-![Glassmorphism Login Form](https://gustavolando.github.io/otCSSAnimatedAbstractBackground//Glassmorphism%20Login%20Form.png)
+![Glassmorphism Login Form](https://gustavolando.github.io/otGlassmorphismLoginForm/Glassmorphism%20Login%20Form.png)
 
 Here is the animation live link:  https://gustavolando.github.io/otGlassmorphismLoginForm/
